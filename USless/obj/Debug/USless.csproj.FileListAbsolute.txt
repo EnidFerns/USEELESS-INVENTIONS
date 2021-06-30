@@ -1,0 +1,9 @@
+C:\Users\Enid\source\repos\USless\bin\Debug\USless.exe
+C:\Users\Enid\source\repos\USless\bin\Debug\USless.pdb
+C:\Users\Enid\source\repos\USless\obj\Debug\USless.csproj.AssemblyReference.cache
+C:\Users\Enid\source\repos\USless\obj\Debug\USless.Form1.resources
+C:\Users\Enid\source\repos\USless\obj\Debug\USless.Properties.Resources.resources
+C:\Users\Enid\source\repos\USless\obj\Debug\USless.csproj.GenerateResource.cache
+C:\Users\Enid\source\repos\USless\obj\Debug\USless.csproj.CoreCompileInputs.cache
+C:\Users\Enid\source\repos\USless\obj\Debug\USless.exe
+C:\Users\Enid\source\repos\USless\obj\Debug\USless.pdb
